@@ -1,0 +1,89 @@
+.container-fluid {
+    margin: 0;
+    padding: 0; 
+}
+
+.navbar {
+    border-radius: 0px;
+    border-color: black;
+    background-color: rgba(0,0.7,0,0.8);
+}
+
+.navbar-brand {
+    font-size: 35px;
+    color: #ffff;
+    padding-left: 25px;
+}
+
+.navbar-brand:hover {
+    color: rgb(255, 255, 255);
+}
+
+.nav {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-nav {
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-toggle {
+    border: 2px solid white;
+    margin-right: 25px;
+}
+
+.icon-bar {
+    background-color: #ffff;
+}
+
+.main-title {
+    margin-bottom: 15px;
+    text-align: center;
+    color: rgb(0,0,0);
+    font-size: 75px;
+    font-family: 'Ms Madi', cursive;
+    font-weight: bold;
+}
+
+li {
+    box-sizing: border-box;
+    width: 100%
+}
+
+.menu-item {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid black;
+    color: black;
+    display: block;
+}
+
+.menu-item:hover {
+    background-color: rgba(0,0,0,0.9);
+	color: rgba(0,0,0,0.4);
+}
+
+.row {
+    margin: 20px;
+}
+
+.content-box {
+    margin: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.2);
+    padding: 20px; 
+}
+
+.item-name {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}

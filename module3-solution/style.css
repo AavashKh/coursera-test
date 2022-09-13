@@ -1,0 +1,54 @@
+.container-fluid {
+    margin: 0;
+    padding: 0; 
+}
+
+.navbar {
+    border-radius: 0px;
+    background-color: #0000;
+}
+
+.navbar-brand {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding: left;
+}
+
+.navbar-brand:hover {
+    color: rgb(255, 255, 255);
+}
+
+.nav {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-nav {
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-toggle {
+    border: 2px solid rgb(255, 255, 255);
+    margin-right: 25px;
+}
+
+.icon-bar {
+    background-color: #ffff;
+}
+
+.main-title {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #0000;
+    font-size: 50px;
+    font-family: 'Ms Madi', cursive;
+    font-weight: bold;
+}
+
+li {
+    box-sizing: border-box;
+    width: 100%
+}
