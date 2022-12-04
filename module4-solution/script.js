@@ -8,7 +8,7 @@
             byeSpeaker(names[i]);
         }
         else {
-            helloSpeaker(names[i]);
+            sayHello(names[i]);
         }
     }
 })();
